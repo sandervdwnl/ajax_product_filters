@@ -1,28 +1,23 @@
+<h1 align="center">Welcome to AJAX Product Filters 👋</h1>
+<p>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
-DESCRIPTION:
+> This project contains AJAX Product Filters. Techniques used for this project are PHP, AJAX, jQuery and PDO.
 
-This project contains AJAX Product Filters.
+### 🏠 [Homepage](The front-end is created with Bootstrap.)
 
-The front-end is created with Bootstrap.
+## Author
 
-The backend uses PDO, AJAX with jQuery and PHP.
+👤 **S van der Windt**
 
-IMAGES:
+* Website: windtwebdesign.com
+* Github: [@sandervdwnl](https://github.com/sandervdwnl)
 
-Save your own images in the IMG-folder
+## Show your support
 
-FLOW:
+Give a ⭐️ if this project helped you!
 
-The user visits the page and all products are loaded by index.php.
-
-When the user checks a checbox, AJAX is loaded by ajax_fetch.js.
-
-This results in a preloader icon and when the request is completed,
-all matched results are outputted by get_data.php.
-
-MADE BY:
-
-Sander van der Windt
-
-
-
+This readme is generated with readme-md-generator
