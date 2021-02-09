@@ -7,7 +7,9 @@
 
 > This project contains AJAX Product Filters. Techniques used for this project are PHP, AJAX, jQuery and PDO.
 
-### 🏠 [Homepage](The front-end is created with Bootstrap.)
+### 🏠 
+
+Coming..
 
 ## Author
 
