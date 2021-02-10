@@ -6,6 +6,12 @@
 </p>
 
 > This project contains AJAX Product Filters. Techniques used for this project are PHP, AJAX, jQuery and PDO.
+ 
+> Installation:
+ Create a database and import .sql file.
+ If error: edit file and delete CREATE DATABASE IF NOT EXISTS part
+ Edit database connection file for your won dbname, dbhost, dbuser and dbpassword.
+ 
 
 ### 🏠 
 
